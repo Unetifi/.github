@@ -9,7 +9,7 @@ Wir sind Unetifi, ein zukunftsorientiertes IT Unternehmen aus dem Augsburger Hin
 <p align="center">
 <a href="https://www.synology.com/" target="_blank"><img src="https://www.unetifi.com/wp-content/uploads/2022/02/synology.png" height="50" ></a>
 <a href="https://www.avm.de/" target="_blank"><img src="https://www.unetifi.com/wp-content/uploads/2022/02/avm.png" height="50" ></a>
-<a href="https://www.ui.com/" target="_blank"><img src="https://www.unetifi.com/wp-content/uploads/2022/02/ubiquiti.png" height="50" ></a>
+<a href="https://www.ui.com/" target="_blank"><img src="https://www.unetifi.com/wp-content/uploads/2024/03/ubiquiti.png" height="50" ></a>
 <a href="https://www.m-net.de/" target="_blank"><img src="https://www.unetifi.com/wp-content/uploads/2023/05/m-net.png" height="50" ></a>
 </p>
 
